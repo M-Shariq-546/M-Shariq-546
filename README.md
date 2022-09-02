@@ -5,6 +5,8 @@
 <img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" widht="300px" height="300px">
 </div>
 
+![](https://komarev.com/ghpvc/?username=M-Shariq-546&color=blue&style=flat-square)
+
 Here are some details of me:
 
 - 🔭 I’m currently working on my learning skills on web development and Data Structure...
