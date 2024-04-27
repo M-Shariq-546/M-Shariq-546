@@ -52,3 +52,7 @@ I'm always eager to collaborate on exciting projects and exchange ideas. Feel fr
 
 ## [My Linkedin](https://www.linkedin.com/in/muhammad-shariq-335b58239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+Regards 
+
+Muhammad Shariq Shafiq
+
