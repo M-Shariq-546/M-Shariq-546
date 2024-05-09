@@ -1,11 +1,5 @@
 # Assalam o Alaikum, I'm Muhammad Shariq Shafiq! 👋
 
-<div align="right">
-  <img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1200px" height="300px">
-</div>
-
-![](https://komarev.com/ghpvc/?username=M-Shariq-546&color=blue&style=flat-square)
-
 ## About Me
 
 I am a dedicated and proactive software engineer with a passion for building robust and scalable web applications. Currently, I specialize in Django backend development and API maintenance, leveraging my expertise to create efficient solutions that meet the demands of modern digital landscapes.
@@ -22,6 +16,14 @@ I am a dedicated and proactive software engineer with a passion for building rob
 - ⚡ **Fun Facts:** 
   - I'm an avid cricket enthusiast 🏏 and enjoy both watching and playing the sport.
   - I find joy in exploring new technologies and continuously expanding my skill set to stay ahead in the dynamic field of software development.
+
+
+# My Working Stack
+
+<div align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210923191540/Integrating-Django-with-Reactjs-using-Django-REST-Framework.png" width="500px" height="300px">
+</div>
+
 
 ## Projects
 
