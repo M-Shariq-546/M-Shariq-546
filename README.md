@@ -71,12 +71,12 @@ My technical skills include:
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Django, Flask, FastApi
 - **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Technologies:** Git, RESTful APIs, TensorFlow
+- **Tools & Technologies:** Git, RESTful APIs, TensorFlow, CI/CD Pipeline Implementation, Deployement, Social Media Integrations, Whatsapp & Twitter & Meta Communication Integrations
 
 ## Achievements
 
 - Recognition for outstanding performance in **Django** as **Back-End Developer**.
-- Having Trusts of more than **15 permanent clients**.
+- Having Trusts of more than **18 permanent clients**.
 - Successfully completed **BackEnd Developer Course from Coursera** for enhancing proficiency in **Django**.
 
 
