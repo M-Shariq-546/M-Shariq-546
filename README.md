@@ -48,14 +48,15 @@
 I am a dedicated and proactive software engineer with a passion for building robust and scalable web applications. Currently, I specialize in Django backend development and API maintenance, leveraging my expertise to create efficient solutions that meet the demands of modern digital landscapes.
 
 - 🔭 **Currently Working On:** Django backends and API maintenance, as well as developing new features to enhance functionality and user experience.
-- 🌱 **Education:** Pursuing a Bachelor of Science in Information Technology, currently in my 7th semester.
-- 💬 **Expertise:** Python programming, creating resilient Django backends for websites, machine learning, object-oriented programming, and front-end web development.
+- 🌱 **Education:** Graduated of Bachelor`s of Science in Information Technology from University of the Punjab.
+- 💬 **Expertise:** Python programming, DjangoRestFramework, creating resilient Django backends for websites, machine learning, object-oriented programming, and front-end web development.
 - 📫 **How to Reach Me:** 
   - **WhatsApp:** +923450825506
   - **Email:** 
     - [MShariq28022000@gmail.com](mailto:MShariq28022000@gmail.com)
     - [MShariq28022000@hotmail.com](mailto:MShariq28022000@hotmail.com)
     - [45226@gcslahore.edu.pk](mailto:45226@gcslahore.edu.pk)
+    - [mshariq.official29@gmail.com](mailto:mshariq.official29@gmail.com)
 - ⚡ **Fun Facts:** 
   - I'm an avid cricket enthusiast 🏏 and enjoy both watching and playing the sport.
   - I find joy in exploring new technologies and continuously expanding my skill set to stay ahead in the dynamic field of software development.
@@ -81,7 +82,7 @@ Here are some notable projects I've worked on:
 My technical skills include:
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, FastApi
+- **Frameworks:** Django, Flask, FastApi, DjangoRestFrameworks, Jinja
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **Tools & Technologies:** Git, RESTful APIs, TensorFlow, CI/CD Pipeline Implementation, Deployement, Social Media Integrations, Whatsapp & Twitter & Meta Communication Integrations
 
