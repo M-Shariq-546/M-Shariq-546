@@ -75,7 +75,9 @@ Here are some notable projects I've worked on:
 
 - **Project 1:** [UWNEST PROPERTY REVIEW WITH DJANGO](https://github.com/M-Shariq-546/UWNEST-Properties) - Python/Django Based Project for properties and reviews on that property to detect using natural language sentiment and wording to remove vulgur languages and sentiment to increase User Experience on the website with having feature of adding new property on website based on approval by the admin side using email configurations.
 - **Project 2:** [SERPTAG WEBSITE](https://github.com/cwebado/Serpbackend) - Serp Tag website for detecting the keywords for website and fiverr gigs etc. for using it based on competitions on that keyword. The Competitions are checked using google and OpenAi apis for better resullts and more advanced featured.
-- **Project 3:** [BONGALO WEBSITE APIS](https://github.com/M-Shariq-546/Bongalo) - BONGALO website apis for user testing and data manipulation for user working and data generations based on clients requirements. The apis have features of booking a slot for family trips , Honeymoon or college/University Trips. The feature of advance booking and deletion of booking also added. 
+- **Project 3:** [BONGALO WEBSITE APIS](https://github.com/M-Shariq-546/Bongalo) - BONGALO website apis for user testing and data manipulation for user working and data generations based on clients requirements. The apis have features of booking a slot for family trips , Honeymoon or college/University Trips. The feature of advance booking and deletion of booking also added.
+- **Project 4:** [Deelly](https://www.deelly.com/) Django MVT based restaurant and companies deals management system for Dubai and it's neighbourhoods. This is for allowing customers to find the best and perfectly matched deals for them and to book the slot in advance without any payment.
+- **Project 5:** [Traino-AI](https://traino.ai) This is the company management system with feature of handling company's employees and their training programs and the company can create summaries and keypoints and quizes for any of new idea or technology using prompt generation tool integrated using openai
 
 ## Skills
 
