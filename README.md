@@ -107,6 +107,13 @@ My technical skills include:
 
 ###
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=M-Shariq-546&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🌈 Multi-Language, Contributions, and Badges Snapshot
+![Metrics](https://raw.githubusercontent.com/M-Shariq-546/M-Shariq-546/main/github-metrics.svg)
+
+
 ## 🖥️ GitHub Contributions
 <br clear="both">
 
