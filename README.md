@@ -1,4 +1,4 @@
-# Assalam o Alaikum, I'm Muhammad Shariq Shafiq! 👋
+# Assalam o Alaikum! I'm Muhammad Shariq Shafiq. 👋
 
 
 <div align="right">
