@@ -117,6 +117,14 @@ My technical skills include:
 <img src="https://raw.githubusercontent.com/ABRJrocks/ABRJrocks/output/snake.svg" alt="Snake animation" />
 
 
+## Code Streak
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=M-Shariq-546" alt="GitHub Streak" />
+  </a>
+</div>
+
+
 
 ## Let's Connect
 
