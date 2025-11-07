@@ -45,13 +45,13 @@
 
 ## About Me
 
-I am a dedicated and proactive software engineer with a passion for building robust and scalable web applications. Currently, I specialize in Django backend development and API maintenance, leveraging my expertise to create efficient solutions that meet the demands of modern digital landscapes.
+I am a dedicated and proactive Senior Software Engineer with a passion for building robust and scalable web applications. Currently, I specialize in Python, Django Backend Development and API maintenance, leveraging my expertise to create efficient solutions that meet the demands of modern digital landscapes.
 
-- 🔭 **Currently Working On:** Django backends and API maintenance, as well as developing new features to enhance functionality and user experience.
+- 🔭 **Currently Working On:** Python based Backends and API maintenance, as well as developing new features to enhance functionality and user experience.
 - 🌱 **Education:** Graduated of Bachelor`s of Science in Information Technology from University of the Punjab.
 - 💬 **Expertise:** Python programming, DjangoRestFramework, creating resilient Django backends for websites, machine learning, object-oriented programming, and front-end web development.
 - 📫 **How to Reach Me:** 
-  - **WhatsApp:** +923450825506
+  - **WhatsApp:** +923450825506 or +923074322911
   - **Email:** 
     - [MShariq28022000@gmail.com](mailto:MShariq28022000@gmail.com)
     - [MShariq28022000@hotmail.com](mailto:MShariq28022000@hotmail.com)
