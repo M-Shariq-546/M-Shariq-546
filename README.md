@@ -78,20 +78,23 @@ Here are some notable projects I've worked on:
 - **Project 3:** [BONGALO WEBSITE APIS](https://github.com/M-Shariq-546/Bongalo) - BONGALO website apis for user testing and data manipulation for user working and data generations based on clients requirements. The apis have features of booking a slot for family trips , Honeymoon or college/University Trips. The feature of advance booking and deletion of booking also added.
 - **Project 4:** [Deelly](https://www.deelly.com/) Django MVT based restaurant and companies deals management system for Dubai and it's neighbourhoods. This is for allowing customers to find the best and perfectly matched deals for them and to book the slot in advance without any payment.
 - **Project 5:** [Traino-AI](https://traino.ai) This is the company management system with feature of handling company's employees and their training programs and the company can create summaries and keypoints and quizes for any of new idea or technology using prompt generation tool integrated using openai
+- **Project 6:** [WAVEHR](https://hr.wavenest.ai) This is AI powered HR Management tool for employyees , companies and their payrolls , leaves and enrollment management having feature of slack , wise and documenso as the custom integrations and openai for employee performance evaluation based on experience and tech stack worked on and years of experience.
+- **Project 7:** [Kindi](https://kindi.rishisec.com) This is AI powered OSINT project for realtime investigation ease. This project has feature of searching for company or person based on email , name, phone and location and also generate AI based reports of the person using the openai and recent history of company or person.
+
 
 ## Skills
 
 My technical skills include:
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, FastApi, DjangoRestFrameworks, Jinja
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Technologies:** Git, RESTful APIs, TensorFlow, CI/CD Pipeline Implementation, Deployement, Social Media Integrations, Whatsapp & Twitter & Meta Communication Integrations
+- **Frameworks:** Django, Flask, FastApi, DjangoRestFrameworks, Jinja, MVT, Reactjs, Typescript
+- **Databases:** PostgreSQL, MySQL, SQLite, Supabase, Clerk, MongoDB
+- **Tools & Technologies:** Git, RESTful APIs, TensorFlow, CI/CD Pipeline Implementation, Deployement, Stripe, PayPal, Slack, Docomenso, Wise, Social Media Integrations, Whatsapp & Twitter & Meta Communication Integrations
 
 ## Achievements
 
-- Recognition for outstanding performance in **Django** as **Back-End Developer**.
-- Having Trusts of more than **18 permanent clients**.
+- Recognition for outstanding performance in **Django, Python , ML** as **Back-End Developer**.
+- Having Trusts of more than **22 permanent clients**.
 - Successfully completed **BackEnd Developer Course from Coursera** for enhancing proficiency in **Django**.
 
 
